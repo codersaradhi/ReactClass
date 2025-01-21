@@ -1,3 +1,7 @@
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+
+
 // const story = React.createElement('p', 
     
 //     {id:"heading",xyz:"abc also"},//where our html elements need attributes to that html element
